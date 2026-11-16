@@ -1,3 +1,5 @@
+<img src="icon.png" alt="Liqwall" width="96" height="96">
+
 # Liqwall MCP server — live crypto liquidations, funding and Hyperliquid data
 
 [Liqwall](https://liqwall.com/?src=github) is a trading terminal that shows what stands behind the price: liquidations, stop orders and whale positions on Hyperliquid, walls in the order books of all large exchanges, funding and open interest.
